@@ -1,10 +1,9 @@
 # GIS_Public-security-risk-assessment
 
 ## Task description
-> Taking the Daan District of Taipei City as an example, we tried to use the points, attributes, and layer data obtained from publicly available government data to create a "crime hot spot analysis" with different GIS analysis modules. With the purpose of "strengthening crime prevention for high-risk groups in society", we have customized the risk level calculation and hope that the final visual presentation can provide relevant police units as a reference when formulating crime prevention strategies.<br><br>
-
-## Tool
-> ArcMap 10.6.1 <br><br>
+> Taking the Daan District of Taipei City as an example, we tried to use the points, attributes, and layer data obtained from publicly available government data to create a "crime hot spot analysis" with different GIS analysis modules. With the purpose of "strengthening crime prevention for high-risk groups in society", we have customized the risk level calculation and hope that the final visual presentation can provide relevant police units as a reference when formulating crime prevention strategies.  
+> 
+> Tool：ArcMap 10.6.1 <br><br>
 
 ## Regional risk level calculation
 ![image](https://github.com/mida18/GIS_Public-security-risk-assessment/blob/main/Fig/%E5%8D%80%E5%9F%9F%E9%A2%A8%E9%9A%AA%E7%AD%89%E7%B4%9A%E8%A8%88%E7%AE%97.png)<br><br>
